@@ -1,8 +1,18 @@
 <h1 align="center"> Hi, my name is <a href= "https://www.linkedin.com/in/david-hernandez-760322292/">David </a></h1>
 
-## Sobre mi
+## About me
 
+-🖥️ Languages: Java, Python
 
+-🌱 Learning Journey: Beginner programmer with growing experience
+
+-💡 Interests: Software development, problem-solving, and coding challenges
+
+-🚀 Currently Working On: Enhancing my skills in Java and Python
+
+-🤝 Looking To Collaborate On: Open source projects and learning opportunities
+
+-🎯 Goals: To continue expanding my knowledge and take on new programming challenges
 <!--
 **DavidHG24/DavidHG24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
