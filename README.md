@@ -2,13 +2,13 @@
 
 ## About me
 
--🖥️ Languages: Java, Python
+-🖥️ Languages: Java, Python, and Javascript
 
 -🌱 Learning Journey: Beginner programmer with growing experience
 
 -💡 Interests: Software development, problem-solving, and coding challenges
 
--🚀 Currently Working On: Enhancing my skills in Java and Python
+-🚀 Currently Working On: Enhancing my skills in Java, Javascript and Python
 
 -🤝 Looking To Collaborate On: Open source projects and learning opportunities
 
