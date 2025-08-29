@@ -2,7 +2,7 @@
 
 ## About me
 
--🖥️ Languages: Java, Python, and Javascript
+-🖥️ Languages: Java, CSS, Python, and Javascript
 
 -🌱 Learning Journey: Beginner programmer with growing experience
 
